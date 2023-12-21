@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w+QaYJNBGBl+mk/mT00nASMDnE0eXQeh7gonNVlPuW15jeJ7nTiMmolAgJGIw7PqJhx1Xv5j4bsaTk+hkXR43Q==",
+  "success": true,
+  "projectFilePath": "/home/sk/RiderProjects/EventsAndDelegatesTest/csharp-calculator/csharp-calculator.csproj",
+  "expectedPackageFiles": [
+    "/home/sk/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

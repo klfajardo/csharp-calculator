@@ -1,0 +1,15 @@
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/obj/Debug/net7.0/EventsAndDelegatesTest.csproj.AssemblyReference.cache
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/obj/Debug/net7.0/EventsAndDelegatesTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/obj/Debug/net7.0/EventsAndDelegatesTest.AssemblyInfoInputs.cache
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/obj/Debug/net7.0/EventsAndDelegatesTest.AssemblyInfo.cs
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/obj/Debug/net7.0/EventsAndDelegatesTest.csproj.CoreCompileInputs.cache
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/bin/Debug/net7.0/EventsAndDelegatesTest
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/bin/Debug/net7.0/EventsAndDelegatesTest.deps.json
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/bin/Debug/net7.0/EventsAndDelegatesTest.runtimeconfig.json
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/bin/Debug/net7.0/EventsAndDelegatesTest.dll
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/bin/Debug/net7.0/EventsAndDelegatesTest.pdb
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/obj/Debug/net7.0/EventsAndDelegatesTest.dll
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/obj/Debug/net7.0/refint/EventsAndDelegatesTest.dll
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/obj/Debug/net7.0/EventsAndDelegatesTest.pdb
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/obj/Debug/net7.0/EventsAndDelegatesTest.genruntimeconfig.cache
+/home/sk/RiderProjects/EventsAndDelegatesTest/EventsAndDelegatesTest/obj/Debug/net7.0/ref/EventsAndDelegatesTest.dll
